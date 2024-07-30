@@ -1,1 +1,0 @@
-In this project,I'm going to develop a web application that dynamically generates content based on user input and interactions. This project will provide hands-on experience with creating, modifying, and managing elements in the DOM, demonstrating the core capabilities of JavaScript for building interactive web pages.
